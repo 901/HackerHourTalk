@@ -3,7 +3,7 @@
 
 My Hacker Hour talk on Cyber Security - given at Rutgers University for USACS!
 
-Video Link to be provided later.
+[Video](https://www.youtube.com/watch?v=ImMwbekDcYo)
 
 ## Topics Covered
 - Authentication vs Identification vs Authentication
