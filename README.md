@@ -6,7 +6,7 @@ My Hacker Hour talk on Cyber Security - given at Rutgers University for USACS!
 [Video](https://www.youtube.com/watch?v=ImMwbekDcYo)
 
 ## Topics Covered
-- Authentication vs Identification vs Authentication
+- Authentication vs Identification vs Authorization
 - Security Model (Alice, Bob, Eve and Trent)
     - Prevention, detection, recovery cycle
 - Passwords
